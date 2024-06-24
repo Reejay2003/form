@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "firstname": "Reejay",
+      "lastname": "Yadav",
+      "midname": "",
+      "emailAddress": "reejay@gmail.com",
+      "Username": "reejay2003",
+      "Gender": "Male",
+      "DOB": "2024-06-10",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "hindi",
+          "marks": "10"
+        },
+        {
+          "subject": "english",
+          "marks": "20"
+        }
+      ]
+    },
+    {
+      "firstname": "Reejsy",
+      "lastname": "Yadav",
+      "midname": "",
+      "emailAddress": "reejsy@gmail.com",
+      "Username": "reejsy2003",
+      "Gender": "Male",
+      "DOB": "2024-06-10",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "hindi",
+          "marks": "10"
+        },
+        {
+          "subject": "english",
+          "marks": "20"
+        }
+      ]
+    },
+    {
+      "id": "cb84",
+      "firstname": "Reejay",
+      "lastname": "Yadav",
+      "midname": "",
+      "emailAddress": "r@gmail.com",
+      "Username": "Reej",
+      "Gender": "Male",
+      "DOB": "2024-06-11",
+      "subject": "",
+      "marks": 0
+    },
+    {
+      "id": "64ad",
+      "firstname": "reej",
+      "lastname": "yad",
+      "midname": "",
+      "emailAddress": "r@gmail.com",
+      "Username": "reeja",
+      "Gender": "Male",
+      "DOB": "2024-06-09",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "hindi",
+          "marks": "50"
+        },
+        {
+          "subject": "english",
+          "marks": "80"
+        }
+      ]
+    },
+    {
+      "id": "0702",
+      "firstname": "vijay",
+      "lastname": "yadav",
+      "midname": "",
+      "emailAddress": "vijayrng@gmail.com",
+      "Username": "vijayrng",
+      "Gender": "Male",
+      "DOB": "2024-06-03",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "hindi",
+          "marks": "100"
+        },
+        {
+          "subject": "english",
+          "marks": "50"
+        }
+      ]
+    },
+    {
+      "id": "3ead",
+      "firstname": "pra",
+      "lastname": "sin",
+      "midname": "",
+      "emailAddress": "pras@gmail.com",
+      "Username": "pra",
+      "Gender": "Female",
+      "DOB": "2024-06-09",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "hindi",
+          "marks": "5"
+        }
+      ]
+    },
+    {
+      "id": "11b5",
+      "firstname": "Reejay",
+      "lastname": "Yadav",
+      "midname": "",
+      "emailAddress": "reejsy2003@gmail.com",
+      "Username": "reeday2003",
+      "Gender": "Male",
+      "DOB": "2024-06-11",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "hindi",
+          "marks": "100"
+        },
+        {
+          "subject": "english",
+          "marks": "50"
+        }
+      ]
+    },
+    {
+      "id": "5da8",
+      "firstname": "Dinesh",
+      "lastname": "rumba",
+      "midname": "kana",
+      "emailAddress": "dinesh99981@gmail.com",
+      "Username": "dinesh999",
+      "Gender": "Male",
+      "DOB": "2024-06-05",
+      "subject": "",
+      "marks": 0,
+      "subjects": [
+        {
+          "subject": "tech",
+          "marks": "43"
+        }
+      ]
+    }
+  ]
+}
