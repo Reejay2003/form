@@ -42,7 +42,7 @@ const formSchema = z.object({
   midname: z.string().optional(),
   emailAddress: z.string().email(),
   Username: z.string().min(3),
-  Gender: z.enum(["Male", "Female", "Other"]),
+  Gender: z.string(),
   DOB: z.string(),
   subject: z.string(),
   marks: z.preprocess((val) => Number(val), z.number().min(0).max(100)),
@@ -83,10 +83,10 @@ function Home() {
       lastname: "",
       emailAddress: "",
       Username: "",
-      Gender: "Male",
+      Gender: "",
       DOB: "",
       subject: "",
-      marks: undefined,
+      marks: 0,
     },
   });
 
@@ -145,7 +145,7 @@ function Home() {
     if (subject && marks !== undefined) {
       setSubjects([...subjects, { subject, marks }]);
       setValue("subject", "");
-      setValue("marks", undefined);
+      setValue("marks", 0);
     }
   };
 
